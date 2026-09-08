@@ -1,1 +1,1 @@
-print("Hello Git!")
+print("practicing git branches")
